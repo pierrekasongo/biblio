@@ -1,0 +1,27 @@
+{
+  "name": "biblio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines":{
+    "node":"10.13.0",
+    "npm":"6.4.1"
+  },
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierrekasongo/biblio*.git"
+  },
+  "author": "pierre kasongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierrekasongo/biblio*/issues"
+  },
+  "homepage": "https://github.com/pierrekasongo/biblio*#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
